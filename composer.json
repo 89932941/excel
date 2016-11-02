@@ -2,8 +2,9 @@
     "name": "89932941/excel",
     "description": "test",
     "license": "MIT",
+    
     "require": {
-        "php": "php: ^5.5.9 || ^7.0"
+        "php: ^5.5.9 || ^7.0"
     }
 }
 
