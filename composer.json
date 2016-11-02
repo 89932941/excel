@@ -75,5 +75,5 @@
             "tests/_files/CoveredFunction.php"
         ]
     },
-    "minimum-stability":"dev-master"
+    "minimum-stability":"dev"
 }
