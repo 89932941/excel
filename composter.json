@@ -1,0 +1,9 @@
+{
+"name": "89932941/excel",
+    "description": "test",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
+
