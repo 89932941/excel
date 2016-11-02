@@ -74,5 +74,6 @@
             "src/Framework/Assert/Functions.php",
             "tests/_files/CoveredFunction.php"
         ]
-    }
+    },
+    "minimum-stability":"dev-master"
 }
